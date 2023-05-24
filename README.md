@@ -6,10 +6,10 @@
 ### Data Analyst
 <br/> 
 
-I'm Ahlam from KSA, I love Data Analytics so I learned more about it, I do extract, transform and load Data.
- <br/>
-I did some projects to develop my skills by usenig many **tools** like: 
-#### Python / Sql / Excel / Tableau / Power BI
+
+Hi there! I'm a data analyst with a passion for using data to drive insights and inform decision-making. I have expertise in
+#### SQL, Tableau, Excel, Power BI, Python, data mining, ETL, statistics, and report preparation.  <br/>
+I focus on creating meaningful visualizations and reports that effectively communicate complex data. Check out my Github for examples of my work and projects I've worked on. Let's connect and collaborate on data-driven projects! <br/>
  <br/>
  <br/>
 

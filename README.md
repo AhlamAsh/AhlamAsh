@@ -1,5 +1,4 @@
  
-## ![Data Analytics & Business Analytics ](https://user-images.githubusercontent.com/75029506/147483614-7dbf3514-873c-488e-a426-b65c62b16c2b.png)
 
 
 
